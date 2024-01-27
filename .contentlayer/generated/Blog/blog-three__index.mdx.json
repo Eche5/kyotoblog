@@ -1,0 +1,35 @@
+{
+  "title": "Step-by-step guide to choosing great font pairs quick and easy",
+  "publishedAt": "2024-01-25T00:00:00.000Z",
+  "updatedAt": "2024-01-25T00:00:00.000Z",
+  "description": "Discover the exciting journey behind the launch of the groundbreaking Jamrio app! Dive into the details of how this innovative application came to life, exploring its features, functionality, and the passion that fueled its creation. Join us as we unveil the unique aspects of Jamrio, its potential impact, and the team's vision for the future. Whether you're a tech enthusiast or someone curious about the latest in app development.",
+  "image": {
+    "filePath": "../public/Images/FeaturedImage2.png",
+    "relativeFilePath": "../../public/Images/FeaturedImage2.png",
+    "format": "png",
+    "height": 280,
+    "width": 444,
+    "aspectRatio": 1.5857142857142856,
+    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAJFBMVEXu8vbn6/Cyvcq9xdCptcTGzdbR2N+ksL+TobLO1d6eq7rY3uQqmdxfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAN0lEQVR4nBXGtw3AQBADMIXLv/++hlkReNMLEMhp848uckEw+pQkSpryEquYXBPZcb0uxHnC0gcmVwEh3r2DtAAAAABJRU5ErkJggg=="
+  },
+  "isPublished": true,
+  "author": "Eche",
+  "tags": [
+    "tech",
+    "css\r"
+  ],
+  "body": {
+    "raw": "\r\n# this is the h1 element\r\n\r\n## this is the h2 element\r\n",
+    "html": "<h1>this is the h1 element</h1>\n<h2>this is the h2 element</h2>"
+  },
+  "_id": "blog-three/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-three/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-three",
+    "contentType": "mdx",
+    "flattenedPath": "blog-three"
+  },
+  "type": "Blog",
+  "url": "/blogs/blog-three"
+}

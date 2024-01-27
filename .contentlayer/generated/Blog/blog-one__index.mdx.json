@@ -1,0 +1,35 @@
+{
+  "title": "Jamrio App Lunches",
+  "publishedAt": "2024-01-25T00:00:00.000Z",
+  "updatedAt": "2024-01-25T00:00:00.000Z",
+  "description": "Discover the exciting journey behind the launch of the groundbreaking Jamrio app! Dive into the details of how this innovative application came to life, exploring its features, functionality, and the passion that fueled its creation. Join us as we unveil the unique aspects of Jamrio, its potential impact, and the team's vision for the future. Whether you're a tech enthusiast or someone curious about the latest in app development.",
+  "image": {
+    "filePath": "../public/Images/photo.png",
+    "relativeFilePath": "../../public/Images/photo.png",
+    "format": "png",
+    "height": 483,
+    "width": 976,
+    "aspectRatio": 2.020703933747412,
+    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAZlBMVEX/RHBUq6p5vLlurKuZy8mt09KizMtgtLGVxMKzpq6Pv72dxcS1zM2HxMLCucD6vMn7bI34pra91NX/VXi829r+fJpEqKZvuLWMo6nUo66Uv71hnJjTj5+Z1dDQ3djOm7DuaIz/SG/EozoYAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVR4nAXBhQHAIAADsOLuMBf2/5NL4LSlqyILvLbHvikC77S5DFOQksd4MgohuUgmBPRea5k3RypjZLwCrX0A8vMDbFsDQMVjcoAAAAAASUVORK5CYII="
+  },
+  "isPublished": true,
+  "author": "Eche",
+  "tags": [
+    "tech",
+    "css\r"
+  ],
+  "body": {
+    "raw": "\r\n# this is the h1 element\r\n\r\n## this is the h2 element\r\n",
+    "html": "<h1>this is the h1 element</h1>\n<h2>this is the h2 element</h2>"
+  },
+  "_id": "blog-one/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-one/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-one",
+    "contentType": "mdx",
+    "flattenedPath": "blog-one"
+  },
+  "type": "Blog",
+  "url": "/blogs/blog-one"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "8 design systems you can check out and download for free",
+  "publishedAt": "2024-01-25T00:00:00.000Z",
+  "updatedAt": "2024-01-25T00:00:00.000Z",
+  "description": "Discover the exciting journey behind the launch of the groundbreaking Jamrio app! Dive into the details of how this innovative application came to life, exploring its features, functionality, and the passion that fueled its creation. Join us as we unveil the unique aspects of Jamrio, its potential impact, and the team's vision for the future. Whether you're a tech enthusiast or someone curious about the latest in app development.",
+  "image": {
+    "filePath": "../public/Images/FeaturedImage1.png",
+    "relativeFilePath": "../../public/Images/FeaturedImage1.png",
+    "format": "png",
+    "height": 280,
+    "width": 443,
+    "aspectRatio": 1.582142857142857,
+    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAS1BMVEWmmLFYdonyy+CIi6T+0d7/vML/y8r3z+S0nLD7ytjDmav3rauSkarBo7dufZPspKhBbYJ3f5fgk57817R4jJj/7L76x7GSnKj6tLVnzpJ8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nCXBxwHAIAwEsLNxpQTS9980j0hgZnd3RmaKiCRUVc3McMzWzvuZKPtG10sLpfeyES2MgV9ERK01PkbJAgY80DwkAAAAAElFTkSuQmCC"
+  },
+  "isPublished": true,
+  "author": "Eche",
+  "tags": [
+    "tech",
+    "css\r"
+  ],
+  "body": {
+    "raw": "\r\n# this is the h1 element\r\n\r\n## this is the h2 element\r\n",
+    "html": "<h1>this is the h1 element</h1>\n<h2>this is the h2 element</h2>"
+  },
+  "_id": "blog-four/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-four/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-four",
+    "contentType": "mdx",
+    "flattenedPath": "blog-four"
+  },
+  "type": "Blog",
+  "url": "/blogs/blog-four"
+}
